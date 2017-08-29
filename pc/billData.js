@@ -1473,7 +1473,7 @@ var billData = [
                 date: "2017-08-08",
                 remark: ""
             },{
-                name: "牛帐胶带",
+                name: "手帐胶带",
                 money: "47.9",
                 consumeType: "",
                 consumePlatform: "",
